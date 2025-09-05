@@ -1,10 +1,10 @@
 {
-  "email": "sunsone243@yahoo.com",
-  "password": "ouezhcnrwgrxsuds",
-  "source_folder": "INBOX",
-  "destination_folder": "Important",
+  "email": "",
+  "password": "",
+  "source_folder": "",
+  "destination_folder": "",
   "important_senders": [
-    "no.reply@ebay.com",
-    "ebay@info.ebay.co.uk"
+    "",
+    ""
   ]
 }
